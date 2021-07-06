@@ -29,7 +29,7 @@
 
     🔷 Material-UI => I've used Material-UI to style this application.
 
-    🔷 react-flip-move => for smooth flip of chat.
+    🔷 react-flip-move => for smooth flip.
 
     🔷 react-twitter-embed => for twitter embeding.
 
