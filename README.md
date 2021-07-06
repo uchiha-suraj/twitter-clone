@@ -1,6 +1,6 @@
 # TWITTER-CLONE
 
-![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)
+![twitter](https://user-images.githubusercontent.com/46050946/124554558-b9747100-de53-11eb-9d3a-d0e82919acbf.png)
 
 ### 1. [Key Features](#key-features) 
 ### 2. [Technologies I've used](#technologies-ive-used)
@@ -15,7 +15,7 @@
   
   ### Build Showcase:
   
-  [![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)](https://user-images.githubusercontent.com/46050946/122209536-41550400-cec2-11eb-87e5-0c1259273cfc.mp4)
+  [![twitter](https://user-images.githubusercontent.com/46050946/124554558-b9747100-de53-11eb-9d3a-d0e82919acbf.png)](https://user-images.githubusercontent.com/46050946/124554013-1e7b9700-de53-11eb-9ada-e1be991711ba.mp4)
  
   **[⬆ Back to Top](#twitter-clone)**
 
